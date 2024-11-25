@@ -1,1 +1,2 @@
 - Закінчив 1 частину (8 секцій)
+- Section 9: Part 2: Probability
